@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(120deg,#8e44ad, #2980b9);
+}
+b {
+    font-size: 20px;
+}
+#camera,#result {
+    border: 2px black dashed;
+    height: 300px;
+    width: 350px;
+}
+label  {
+    font-size: 20px;
+    color: azure;
+}
